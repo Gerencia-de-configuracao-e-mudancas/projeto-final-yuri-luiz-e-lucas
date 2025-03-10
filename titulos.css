@@ -1,12 +1,16 @@
-*{
+*{ 
     margin: 0;
     padding: 0;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-shadow: 2px 2px black; 
 }
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #1b2b24;
-    color: #000000;
+
+body{
+    background-image: url("imgs/202760-918944267_tiny.jpg");
+    background-size: contain;
+    backdrop-filter: blur(10px);
+
 }
 
 section {
@@ -28,11 +32,11 @@ p {
     font-family: Arial, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
-    color: #000000;
+    color: #ffffff;
 }
 
 h3 {
-    color: #000000;
+    color: #ffffff;
     font-size: 1.8rem;
     margin-bottom: 15px;
     text-align: center;
@@ -45,16 +49,6 @@ ul {
 li {
     margin-bottom: 8px;
     font-size: 1rem;
-}
-
-/* Estilo para links futuros */
-a {
-    color: #2e4f42;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
 
 section {
