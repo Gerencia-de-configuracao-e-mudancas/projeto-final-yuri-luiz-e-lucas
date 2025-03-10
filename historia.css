@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-shadow: 2px 2px black; 
+}   
+body {
+    background-image: url("imgs/202760-918944267_tiny.jpg");
+    background-size: contain;
+    backdrop-filter: blur(10px);
+
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+section {
+    padding: 20px;
+    background-color: #2d473b;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+h4 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #ffffff;
+}
