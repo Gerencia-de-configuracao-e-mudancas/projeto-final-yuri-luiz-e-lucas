@@ -58,3 +58,18 @@ section {
     margin: 20px;
 }
 
+.idolo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.idolo>img{
+    border-radius: 20px;
+  
+}
+
+.idolo>p{
+   width: 60%;
+}
