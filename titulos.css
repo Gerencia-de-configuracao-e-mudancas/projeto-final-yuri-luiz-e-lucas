@@ -5,11 +5,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #213b35;
+    background-color: #1b2b24;
     color: #000000;
 }
 
 section {
+    background-color: #2d473b;
     font-family: Arial, sans-serif;
     padding: 20px;
 }
@@ -57,7 +58,7 @@ a:hover {
 }
 
 section {
-    background-color: #ffffff;
+    background-color: #2d473b;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
